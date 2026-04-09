@@ -1,0 +1,5 @@
+{
+  "name": "YT-Auto: Autonomous YouTube Manager",
+  "description": "An AI-powered autonomous YouTube channel manager that generates titles/descriptions and handles uploads in the background.",
+  "requestFramePermissions": []
+}
